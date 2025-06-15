@@ -5,20 +5,10 @@ Setup Instructions
 2. Install Dependencies
 <ul>
     <li>Backend Dependencies
-        <ol>
-            <li>express</li>
-            <li>cors</li>
-            <li>dotenv</li>
-        </ol>
+        <b>run</b> <i>npm install</i>
     </li>
     <li>Frontend Dependencies
-        <ol>
-            <li>react</li>
-            <li>react-dom</li>
-            <li>axios</li>
-            <li>tailwindcss</li>
-            <li>animate.css</li>
-        </ol>
+        <b>run</b> <i>npm install</i>
     </li>
 </ul>
 
@@ -26,10 +16,10 @@ Setup Instructions
 
 <ul>
     <li>Start Backend<br>
-        <i><u>node index.js</u></i>
+        <b>run</b> <i><u>node index.js</u></i>
     </li>
     <li>Start Frontend<br>
-        <i><u>npm run start</u></i>
+        <b>run</b> <i><u>npm run start</u></i>
     </li>
 </ul>
 
