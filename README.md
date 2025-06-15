@@ -4,10 +4,10 @@ Setup Instructions
 1. Clone the Repository
 2. Install Dependencies
 <ul>
-    <li>Backend Dependencies
+    <li>Backend Dependencies<br>
         <b>run</b> <i>npm install</i>
     </li>
-    <li>Frontend Dependencies
+    <li>Frontend Dependencies<br>
         <b>run</b> <i>npm install</i>
     </li>
 </ul>
